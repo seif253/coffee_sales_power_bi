@@ -4,14 +4,15 @@
 This project focuses on analyzing sales data to extract meaningful insights and KPIs.
 
 # Tools Used
-- Excel
-- Power BI
-- SQL
+- power bi
+- power query
+- DAX
 
 # Key Insights
 - Monthly sales trends
 - Top-performing products
 - Regional performance analysis
+- current year sales and previous year sales
 
 # Conclusion
 This project helped improve my data analysis and visualization skills.
